@@ -3,6 +3,7 @@
  Developed By Speed Softwares (SpeedSterKawaii), Feel free to use it <3.
  
  Please credit me if you are going to use this in any way (exploit, UI, personal).
+ NOTE: YOU EITHER GOT THIS FROM MY OFFICIAL GITHUB OR MY SITE, IF YOU DIDNT, DM ME ASAP.
 *******************************************************************************/
 
 #include <iostream>
